@@ -1,7 +1,9 @@
 # Gustavo Vasconcelos 👋
 
-### Desenvolvedor Full Stack | ADS @ Uniasselvi
-Focado na criação de interfaces modernas e soluções de backend eficientes.
+### Desenvolvedor Web Full Stack | ADS @ Uniasselvi
+**Focado em criar interfaces modernas e responsivas no Frontend, com experiência na construção de APIs e integração de dados no Backend.**
+
+[cite_start]Sou formado em **Análise e Desenvolvimento de Sistemas** [cite: 18] [cite_start]e busco criar soluções modernas, criativas e funcionais para a web[cite: 5]. [cite_start]Atualmente, foco em aprimorar minhas habilidades em interfaces de alta performance e arquiteturas escaláveis[cite: 6].
 
 ---
 
