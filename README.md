@@ -1,45 +1,45 @@
 # Gustavo Vasconcelos 👋
 
-### Desenvolvedor Full Stack | ADS @ Uniasselvi
-Focado na criação de interfaces modernas e sistemas robustos. Combinando a agilidade do **Frontend** com a eficiência do **Backend**.
+### Full Stack Developer | ADS @ Uniasselvi
+Transformando conceitos complexos em interfaces modernas e soluções de backend eficientes.
 
 ---
 
-### 🛠️ Tecnologias & Habilidades
+### 🛠️ Tech Stack
 
 **Frontend**
-> ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-> ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css)
+> ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
-> ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-> ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-> ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+> ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+> ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+> ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 📂 Projetos em Destaque
 
 * [cite_start]**Livraria Infinite (Full Stack)** [cite: 13, 14]
-    * [cite_start]Interface responsiva em ReactJS e TypeScript[cite: 16].
-    * [cite_start]Backend em Python com Flask e manipulação de dados em SQL[cite: 15].
+    * [cite_start]Interface responsiva desenvolvida com ReactJS e TypeScript[cite: 16].
+    * [cite_start]Backend robusto em Python com Flask e integração SQL[cite: 15].
     * [Acessar Repositório](https://github.com/Gustavodev856/LivrariaInfinite)
 
 * [cite_start]**Relógio Digital Interativo** [cite: 9, 10]
-    * [cite_start]Focado em manipulação de DOM e CSS moderno[cite: 11].
+    * [cite_start]Aplicação focada em manipulação avançada de DOM e estilização com CSS moderno[cite: 11].
     * [Acessar Repositório](https://github.com/gustavo856/relogio)
 
 ---
 
-### 🎓 Formação & Certificações
+### 🎓 Formação & Qualificações
 
-* [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas — Uniasselvi (2025)[cite: 18].
+* [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas — Uniasselvi (Conclusão 2025)[cite: 18].
 * [cite_start]**Web Fullstack:** Formação Completa — Udemy[cite: 21].
-* [cite_start]**Python:** Especialização — Gustavo Guanabara (Curso em Vídeo)[cite: 20].
-* [cite_start]**Informática & Programação:** SENAC Recife[cite: 22, 25].
+* [cite_start]**Python:** Especialização (Mundo 1, 2 e 3) — Gustavo Guanabara[cite: 20].
+* [cite_start]**Sistemas & Informática:** Qualificação Profissional — SENAC Recife[cite: 22, 25].
 
 ---
 
@@ -60,5 +60,5 @@ Focado na criação de interfaces modernas e sistemas robustos. Combinando a agi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavodev856&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavodev856&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
 </p>
