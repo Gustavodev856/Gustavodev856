@@ -1,16 +1,29 @@
-## Hi there 👋
+## Oi! Eu sou o Gustavo Vasconcelos 👋
+### Desenvolvedor Web Full Stack
 
-<!--
-**Gustavodev856/Gustavodev856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Bem-vindo(a) ao meu GitHub!
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em aplicações web modernas, funcionais e bem estruturadas. Aqui você encontrará meus projetos, estudos e minha evolução como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias & Ferramentas
+- HTML5 | CSS3 | JavaScript | TypeScript  
+- React | Tailwind CSS | Bootstrap  
+- Python | Flask | Django | SQL  
+- Git | GitHub | VS Code  
+
+---
+
+### 📌 Projetos em destaque
+- 📚 **Livraria Digital (Full Stack)**  
+  🔗 https://github.com/Gustavodev856/LivrariaInfinite  
+
+- ⏰ **Relógio Digital**  
+  🔗 https://github.com/gustavo856/relogio  
+
+---
+
+### 🌐 Redes Sociais
+- 💻 GitHub: https://github.com/Gustavodev856  
+- 🔗 LinkedIn: https://www.linkedin.com/in/gustavo-vasconcelos-2881b8272/
