@@ -1,7 +1,7 @@
 # Gustavo Vasconcelos 👋
 
-### Full Stack Developer | ADS @ Uniasselvi
-Transformando conceitos complexos em interfaces modernas e soluções de backend eficientes.
+### Desenvolvedor Full Stack | ADS @ Uniasselvi
+Focado na criação de interfaces modernas e soluções de backend eficientes.
 
 ---
 
@@ -23,23 +23,23 @@ Transformando conceitos complexos em interfaces modernas e soluções de backend
 
 ### 📂 Projetos em Destaque
 
-* [cite_start]**Livraria Infinite (Full Stack)** [cite: 13, 14]
-    * [cite_start]Interface responsiva desenvolvida com ReactJS e TypeScript[cite: 16].
-    * [cite_start]Backend robusto em Python com Flask e integração SQL[cite: 15].
+* **Livraria Infinite (Full Stack)**
+    * Interface responsiva desenvolvida com ReactJS e TypeScript.
+    * Backend robusto em Python com Flask e integração SQL.
     * [Acessar Repositório](https://github.com/Gustavodev856/LivrariaInfinite)
 
-* [cite_start]**Relógio Digital Interativo** [cite: 9, 10]
-    * [cite_start]Aplicação focada em manipulação avançada de DOM e estilização com CSS moderno[cite: 11].
+* **Relógio Digital Interativo**
+    * Aplicação focada em manipulação avançada de DOM e estilização com CSS moderno.
     * [Acessar Repositório](https://github.com/gustavo856/relogio)
 
 ---
 
 ### 🎓 Formação & Qualificações
 
-* [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas — Uniasselvi (Conclusão 2025)[cite: 18].
-* [cite_start]**Web Fullstack:** Formação Completa — Udemy[cite: 21].
-* [cite_start]**Python:** Especialização (Mundo 1, 2 e 3) — Gustavo Guanabara[cite: 20].
-* [cite_start]**Sistemas & Informática:** Qualificação Profissional — SENAC Recife[cite: 22, 25].
+* **Graduação:** Análise e Desenvolvimento de Sistemas — Uniasselvi (Conclusão 2025).
+* **Web Fullstack:** Formação Completa — Udemy.
+* **Python:** Especialização (Mundo 1, 2 e 3) — Gustavo Guanabara.
+* **Sistemas & Informática:** Qualificação Profissional — SENAC Recife.
 
 ---
 
